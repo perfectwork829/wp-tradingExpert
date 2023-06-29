@@ -17,12 +17,12 @@ MySQL
 ## Preview
 
 ## Home page
-<img src="https://github.com/perfectwork829/wp-tradingExpert/blob/main/Home.png" width="561" height="720" />
+<img src="https://github.com/perfectwork829/wp-tradingExpert/blob/main/Home.png" width="561" height="1020" />
 
 ## Services page
-<img src="https://github.com/perfectwork829/wp-tradingExpert/blob/main/Services.png" width="561" height="720" />
+<img src="https://github.com/perfectwork829/wp-tradingExpert/blob/main/Services.png" width="561" height="1000" />
 
 
 ## Blog page
-<img src="https://github.com/perfectwork829/wp-tradingExpert/blob/main/BlogOverview.png" width="561" height="720" />
+<img src="https://github.com/perfectwork829/wp-tradingExpert/blob/main/BlogOverview.png" width="561" height="1000" />
 
