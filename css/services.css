@@ -1,0 +1,848 @@
+/* error accordion start*/
+/* error accordion end*/
+/*# sourceMappingURL=services.css.map */
+.grid-container.container {
+  padding-top: 124px;
+}
+.accoording_tab.gutentor-accordion-wrapper .gutentor-grid-item-wrap .gutentor-accordion-wrap .gutentor-single-item {
+  margin-top: 24px;
+}
+.accoording_tab.gutentor-accordion-wrapper .gutentor-grid-item-wrap .gutentor-accordion-wrap .gutentor-single-item .gutentor-single-item-title {
+  margin-bottom: 0px;
+  font-weight: 700;
+  font-size: 25px;
+  position: relative;
+}
+.accoording_tab.gutentor-accordion-wrapper .gutentor-grid-item-wrap .gutentor-accordion-wrap .gutentor-single-item .gutentor-single-item-title:after {
+  position: absolute;
+  background-image: url(../images/arrow-down-circle.svg);
+  right: 30px;
+  content: "";
+  top: auto;
+  background-color: #ffffff;
+  background-repeat: no-repeat;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-position: center center;
+  cursor: pointer;
+}
+.accoording_tab.gutentor-accordion-wrapper .gutentor-grid-item-wrap .gutentor-accordion-wrap .gutentor-single-item .gutentor-accordion-body p {
+  margin-bottom: 0px;
+  font-size: 17px;
+  padding: 0px 30px 30px;
+  display: none;
+}
+.meet_the_expert {
+  max-width: 1170px;
+  margin: auto !important;
+  margin-bottom: 70px !important;
+}
+.meet_the_expert .exp_trader_img {
+  margin-left: 0px;
+}
+.meet_the_expert .exp_trader_img:first-child {
+  flex-basis: 36% !important;
+  flex-basis: 40% !important;
+}
+.meet_the_expert .exp_trader_img .is-vertically-aligned-center {
+  flex-basis: 10% !important;
+}
+.meet_the_expert .exp_trader_img .meet_the_expert_sec {
+  flex-basis: 90% !important;
+}
+.meet_the_expert .exp_trader_content {
+  flex-basis: 58% !important;
+  align-self: end;
+  margin-left: 60px;
+}
+.meet_the_expert .is-layout-flex.wp-container-40 {
+  gap: 88px;
+}
+.meet_the_expert .expert_side img {
+  width: 424px !important;
+}
+.entry-content .common_heading {
+  font-size: var(--fs_62) !important;
+}
+.entry-content .trading_fusce {
+  margin-top: 170px;
+}
+.entry-content .trading_fusce .wp-block-code {
+  background: transparent;
+  padding: 0px;
+}
+.entry-content .trading_fusce .steps_success {
+  align-self: center !important;
+  margin-bottom: 50px;
+}
+.entry-content .trading_fusce .steps_success > .wp-block-column:first-child {
+  flex-basis: 56.66% !important;
+}
+.entry-content .trading_fusce .wp-block-heading {
+  margin-bottom: 0px;
+}
+.entry-content p {
+  margin-bottom: 20px !important;
+}
+.entry-content .success_trading {
+  justify-content: end;
+}
+.entry-content .paragraph_free {
+  margin-bottom: 0px !important;
+}
+.inner_box_point {
+  padding: 40px 48px;
+}
+.inner_box_point h3 {
+  font-weight: 700;
+}
+.additonal_trading {
+  margin-top: 17px !important;
+}
+.additonal_trading .the_videosec {
+  margin-top: -235px;
+}
+.additonal_trading .the_videosec pre {
+  margin-bottom: 0px;
+}
+.additonal_trading .the_videosec h3 {
+  font-size: 29px !important;
+  margin-bottom: 0px;
+}
+.additonal_trading .wp-block-image.size-large {
+  position: unset;
+}
+.additonal_trading .wp-block-image.size-large img {
+  display: block;
+  margin: auto;
+  width: 100%;
+}
+.additonal_trading .is-layout-flex.wp-container-21 {
+  gap: 30px;
+}
+.additonal_trading .wp-container-20 {
+  align-items: end !important;
+}
+.service_faq {
+  padding-left: 0;
+  padding-right: 0px;
+}
+.services_the_point {
+  max-width: 1170px;
+  margin: 60px auto 55px auto !important;
+  align-items: center !important;
+}
+.services_the_point .common_heading {
+  font-size: var(--fs_80) !important;
+  margin-bottom: 0px;
+}
+.services_the_point .common_heading > .wp-block-column:first-child {
+  flex-basis: 56.66% !important;
+}
+.services_the_point .common_heading.common_para {
+  margin-bottom: 23px;
+  font-size: var(--fs_16) !important;
+}
+.services_the_point p.paragraph_free.common_para {
+  margin-bottom: 30px !important;
+}
+.services_the_point .commGradBtn a:hover {
+  background: #351b17 !important;
+}
+.inner_box_point_the {
+  padding: 80px 50px;
+  background-color: #232323 !important;
+}
+.without_stack {
+  margin-top: 60px !important;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+.without_stack h2 {
+  font-weight: 700;
+}
+.without_stack .trading_expert_mem.first-child {
+  border-radius: 0px;
+}
+.without_stack .trading_expert_mem {
+  border-radius: 25px;
+  padding: 40px 20px !important;
+}
+.without_stack .trading_expert_mem h2 {
+  font-size: var(--fs_30) !important;
+}
+.without_stack .trading_expert_mem p {
+  font-size: 18px !important;
+}
+.without_stack .trading_expert_mem p:last-child {
+  margin-bottom: 0px !important;
+}
+.without_stack .trading_expert_mem.has-contrast-background-color {
+  padding: 40px 20px;
+}
+.without_stack .features_column {
+  border-radius: 0px;
+}
+.wp-container-42 .wp-block-columns {
+  align-items: center !important;
+}
+.wp-container-42 .wp-container-38 {
+  margin-bottom: 0px !important;
+}
+.meet_the_expert_sec p {
+  font-size: 24px !important;
+  margin-bottom: 0px !important;
+  font-size: 32px !important;
+}
+.count_section.con_max {
+  max-width: 800px;
+  max-width: 900px;
+}
+.count_section {
+  max-width: 1170px;
+  margin: auto !important;
+  margin-bottom: 55px !important;
+}
+.count_section .trading_strategy {
+  padding: 25px;
+  border-radius: 25px;
+  width: 100%;
+  flex: 0 0 calc(25% - 23.5px) !important;
+}
+.count_section .trading_strategy h2 {
+  margin-bottom: 30px;
+  font-weight: 700;
+}
+.count_section .trading_strategy p {
+  color: rgba(255, 255, 255, 0.6) !important;
+}
+.count_section .pricing_menu {
+  margin-bottom: 100px;
+}
+.count_section .trading_strategy.is-layout-flex.wp-container-46 {
+  margin-top: 85px !important;
+}
+.count_section .trading_strategy.is-layout-flex.wp-container-46 .trading_para_the_services {
+  margin-top: 8px;
+  padding-top: 60px;
+  margin-bottom: 20px !important;
+}
+.count_section .trading_strategy.con_max.is-layout-flex .pricing_menu {
+  margin-top: 40px;
+  margin-bottom: 100px !important;
+}
+.count_section .paragraph_free.common_para {
+  max-width: 500px;
+  margin: auto auto 64px auto;
+}
+.count_section .diffrent_point {
+  margin-bottom: 16px;
+  align-items: center !important;
+}
+.count_section .pellentesque {
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding-right: 20px;
+  padding-left: 20px;
+  align-items: center !important;
+}
+.count_section .pellentesque h2 {
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+.count_section .pellentesque .days_button {
+  display: block;
+  width: 100%;
+  padding-right: 35px;
+}
+.count_section .pellentesque .days_button .has-background {
+  margin-top: 30px;
+  justify-content: space-between;
+  padding: 10px 12px 10px 20px;
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+.count_section .pellentesque .days_button img {
+  background: #ffffff;
+  padding: 5px;
+  border-radius: 50px;
+}
+.count_section .count_third p {
+  color: rgba(255, 255, 255, 0.6) !important;
+}
+.count_section .pricing_plain {
+  background: linear-gradient(90deg, #FD3F77 0%, #FF7E47 100%), #D9D9D9;
+  border-radius: 40px;
+  padding: 35px;
+  align-items: center !important;
+}
+.count_section .pricing_plain h2 {
+  margin-bottom: 6px;
+  font-weight: 700;
+}
+.count_section .pricing_plain .the_pricing {
+  margin-bottom: 28px;
+}
+.count_section .pricing_plain h1 {
+  margin-bottom: 28px;
+}
+.count_section .pricing_plain .days_button_second {
+  display: block;
+  width: 100%;
+}
+.count_section .pricing_plain .days_button_second .has-background {
+  margin-top: 30px;
+  justify-content: space-between;
+  padding: 10px 12px 10px 20px;
+  background-color: white !important;
+  color: linear-gradient(90deg, #FD3F77 0%, #FF7E47 100%), #D9D9D9;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  font-weight: 600;
+  color: #FD3F77 !important;
+}
+.count_section .pricing_plain .days_button_second a img {
+  background-color: black !important;
+  border-radius: 50px;
+  padding: 5px;
+}
+.count_section.tra_point_remove .trading_strategy {
+  padding: 32px 25px;
+}
+.count_section.tra_point_remove .trading_strategy p {
+  margin-bottom: 0px;
+}
+.count_section.tading_strateg_first .trading_strategy {
+  padding: 32px 25px;
+}
+.count_section.tading_strateg_first .trading_strategy p {
+  margin-bottom: 0px;
+}
+.tading_strateg_first .owl-nav {
+  display: none;
+}
+.wp-container-90 .without_stack {
+  width: 916px;
+  max-width: 100%;
+}
+.better_others {
+  max-width: 600px;
+  margin: 0 auto;
+}
+.features_heading {
+  margin-bottom: 40px;
+}
+.wrong_time {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.features_column {
+  border-right: 1px solid rgba(255, 255, 255, 0.2);
+}
+.trading_expert_mem {
+  border-radius: 25px;
+  padding: 40px 20px;
+}
+.list_years {
+  height: 60px;
+}
+.accoording_tab {
+  margin-bottom: 100px;
+}
+.accoording_tab .gutentor-single-item {
+  background-color: #232323;
+  border-radius: 25px;
+}
+.accoording_tab .gutentor-accordion-heading {
+  border: none;
+}
+.accoording_tab .gutentor-accordion-body {
+  border: none;
+}
+.accoording_tab .active .gutentor-single-item-title:after {
+  transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+.accoording_tab .gutentor-title {
+  display: none;
+}
+.accoording_tab .gutentor-accordion-heading.active h3 {
+  padding-bottom: 10px !important;
+}
+.faq_section_one {
+  margin-top: 150px !important;
+}
+.gutentor-accordion-wrapper .gutentor-single-item-title {
+  padding: 30px !important;
+}
+.best_for_you {
+  max-width: 1170px;
+  margin: auto !important;
+  margin-bottom: 25px !important;
+}
+.best_for_you figure img {
+  width: 100%;
+}
+.trusted_para_sec {
+  margin-bottom: 20px !important;
+}
+.count_separate_ .counter_flex h1 {
+  font-size: 72px !important;
+}
+.count_separate_ .counter_flex p {
+  color: rgba(255, 255, 255, 0.6);
+}
+.service_faq_sect p {
+  display: block !important;
+}
+.color_white_not a {
+  color: #FF7E47 !important;
+  text-decoration: none !important;
+}
+.trading_para_the_services a {
+  border-radius: 25px;
+  width: fit-content;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 7px 20px;
+}
+.feq_sec > .wp-block-column:first-child {
+  flex-basis: 78% !important;
+}
+.feq_sec .common_heading {
+  margin-bottom: 0px;
+}
+.feq_sec .common_para {
+  margin-bottom: 0px;
+}
+.box_banner {
+  padding-bottom: 100px;
+}
+.box_banner .wp-block-columns {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.trading_fusce .steps_success {
+  align-items: center !important;
+}
+.mobilecompareSection {
+  display: none !important;
+}
+.mobilecompareCol {
+  background: #232323;
+  padding: 32px;
+  border-radius: 24px;
+}
+.mobilecompareCol .features_heading {
+  font-size: 24px;
+  font-weight: 700;
+}
+.mobilecompareCol table {
+  border: 0 !important;
+}
+.mobilecompareCol .wp-block-table td {
+  border: 0;
+  padding: 12px 8px;
+}
+.mobilecompareCol .wp-block-table td:nth-child(2) {
+  text-align: right;
+  width: 60%;
+}
+.mobilecompareCol .wp-block-table th {
+  border: 0;
+  padding: 12px 8px;
+}
+.pellentesque .diffrent_point p {
+  margin-bottom: 0 !important;
+}
+.width_60 {
+  width: 60%;
+}
+@media only screen and (max-width: 1200px) {
+  .grid-container.container {
+    padding: 50px 20px 0px;
+  }
+  .accoording_tab.gutentor-accordion-wrapper .gutentor-grid-item-wrap .gutentor-accordion-wrap .gutentor-single-item .gutentor-single-item-title {
+    padding: 30px 68px 30px 30px !important;
+    display: flex;
+    align-items: center;
+  }
+  .inner_box_point {
+    padding: 40px 40px;
+  }
+  .additonal_trading .the_videosec h3 {
+    font-size: 22px !important;
+  }
+  .services_the_point {
+    margin-top: 100px !important;
+  }
+  .faq_section_one {
+    margin-top: 110px !important;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .accoording_tab > .grid-container {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .meet_the_expert .exp_trader_content .trading_para_the_services {
+    margin-top: 20px !important;
+  }
+  .meet_the_expert .exp_trader_content .common_para {
+    font-size: var(--fs_16) !important;
+  }
+  .entry-content .trading_fusce .steps_success > .wp-block-column:first-child {
+    flex-basis: 39.66% !important;
+  }
+  .additonal_trading .the_videosec {
+    margin-top: -176px;
+  }
+  .count_section .trading_strategy h2 {
+    font-size: 17px !important;
+    margin-bottom: 10px;
+  }
+  .count_section .trading_strategy p {
+    font-size: 13px;
+  }
+  .count_section.tra_point_remove .trading_strategy {
+    padding: 32px 20px;
+  }
+  .count_section.tading_strateg_first .trading_strategy {
+    padding: 32px 20px;
+  }
+}
+@media only screen and (max-width: 781px) {
+  .meet_the_expert {
+    margin-bottom: 40px !important;
+  }
+  .meet_the_expert .exp_trader_content {
+    margin-left: 0px;
+  }
+  .meet_the_expert .exp_trader_content .wp-block-columns.is-layout-flex {
+    gap: 0px !important;
+    align-items: center !important;
+  }
+  .meet_the_expert .exp_trader_content .wp-block-column.is-vertically-aligned-center {
+    flex-basis: 2% !important;
+  }
+  .meet_the_expert .exp_trader_content .wp-block-column.meet_the_expert_sec {
+    flex-basis: 82% !important;
+  }
+  .entry-content {
+    margin-top: 90px;
+  }
+  .entry-content .trading_fusce {
+    gap: 0px;
+  }
+  .entry-content .trading_fusce h1 {
+    margin-bottom: 17px;
+  }
+  .entry-content h1 {
+    margin-bottom: 17px;
+  }
+  .entry-content .success_trading {
+    justify-content: start;
+    margin-top: 40px;
+  }
+  .images_future {
+    width: 40px;
+  }
+  .additonal_trading {
+    margin-top: 55px !important;
+  }
+  .additonal_trading .the_videosec {
+    margin-top: 0px;
+    margin-top: 0px;
+  }
+  .additonal_trading .wp-block-image {
+    display: flex;
+    justify-content: space-between;
+  }
+  .additonal_trading .wp-block-image .aligncenter {
+    margin: 0px !important;
+  }
+  .additonal_trading .wp-block-image .aligncenter:nth-child(3):before {
+    content: "Live Streams";
+    display: flex;
+    width: 60%;
+    text-align: end;
+  }
+  .additonal_trading .wp-block-image .aligncenter:nth-child(4):before {
+    content: "Trading Setups";
+    display: flex;
+    width: 60%;
+    text-align: end;
+  }
+  .additonal_trading figure > img {
+    display: none !important;
+  }
+  .without_stack .trading_expert_mem p {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    text-align: end;
+  }
+  .without_stack .trading_expert_mem p:nth-child(2)::before {
+    content: "Videos";
+    display: flex;
+    width: 60%;
+  }
+  .without_stack .trading_expert_mem p:nth-child(5)::before {
+    content: "Experience";
+    display: flex;
+    width: 60%;
+    text-align: end;
+  }
+  .without_stack .trading_expert_mem p:nth-child(6)::before {
+    content: "For";
+    display: flex;
+    width: 60%;
+    text-align: end;
+  }
+  .without_stack .trading_expert_mem p:nth-child(7)::before {
+    content: "Markets";
+    display: flex;
+    width: 60%;
+    text-align: end;
+  }
+  .without_stack .trading_expert_mem p:nth-child(8)::before {
+    content: "Price";
+    display: flex;
+    width: 60%;
+    text-align: end;
+  }
+  .without_stack .features_column {
+    display: none;
+  }
+  .count_section.count_separate_ {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+  }
+  .count_section .trading_strategy h2 {
+    font-size: 30px !important;
+  }
+  .count_section .trading_strategy p {
+    font-size: 16px !important;
+  }
+  .count_section .paragraph_free.common_para {
+    margin: auto;
+  }
+  .count_section .diffrent_point {
+    padding-left: 20px;
+  }
+  .count_section .diffrent_point .wp-block-column:first-child {
+    flex-basis: 6% !important;
+  }
+  .count_section .diffrent_point .wp-block-column:last-child {
+    flex-basis: 88% !important;
+  }
+  .count_section .pellentesque {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .count_section .pellentesque h2 {
+    padding-left: 20px;
+  }
+  .count_section .pellentesque h1 {
+    padding-left: 20px;
+  }
+  .count_section .pellentesque .days_button {
+    padding-right: 0px;
+  }
+  .count_section .pellentesque > .wp-block-column {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  .count_section .pricing_plain .the_pricing {
+    padding-left: 20px;
+  }
+  .trading_expert_mem {
+    background-color: var(--contrast);
+  }
+  .trading_expert_mem .wp-block-image {
+    display: flex;
+    justify-content: space-between;
+  }
+  .trading_expert_mem .wp-block-image:nth-child(3)::before {
+    content: "Live Streams";
+    display: flex;
+    width: 60%;
+    text-align: end;
+  }
+  .trading_expert_mem .wp-block-image:nth-child(3):nth-child(4)::before {
+    content: "Trading Setups";
+    display: flex;
+    width: 60%;
+    text-align: end;
+  }
+  .best_for_you {
+    margin-bottom: 0px !important;
+  }
+  .count_separate_ .counter_flex {
+    height: auto;
+    align-items: center;
+  }
+  .count_separate_ .counter_flex h1 {
+    font-size: 20px !important;
+  }
+  .wp-block-buttons .commGradBtn a {
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+  }
+}
+@media only screen and (max-width: 575px) {
+  .meet_the_expert .exp_trader_content .wp-block-column.is-vertically-aligned-center {
+    flex-basis: 2% !important;
+  }
+  .meet_the_expert .exp_trader_content .wp-block-column.meet_the_expert_sec {
+    flex-basis: 66% !important;
+  }
+  .inner_box_point_the {
+    padding: 42px 24px;
+  }
+  .count_section .diffrent_point .wp-block-column:first-child {
+    flex-basis: 8% !important;
+  }
+  .count_section .diffrent_point .wp-block-column:last-child {
+    flex-basis: 74% !important;
+  }
+  .count_section .pellentesque {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .count_section .pricing_plain {
+    padding: 35px 17px;
+  }
+}
+@media only screen and (max-width: 475px) {
+  .without_stack .trading_expert_mem {
+    background-color: var(--contrast);
+  }
+}
+@media only screen and (max-width: 768px) {
+  .tading_strateg_first .owl-nav {
+    display: block !important;
+    margin-top: 60px !important;
+    text-align: center;
+  }
+  .tading_strateg_first .owl-nav button.disabled {
+    pointer-events: none;
+    opacity: 0.5;
+  }
+  .tading_strateg_first button.owl-prev {
+    background-image: url(../images/lefttrans_arrow.png) !important;
+    background-size: 50px 50px !important;
+    width: 50px;
+    height: 50px;
+    background-color: transparent !important;
+    color: transparent !important;
+  }
+  .tading_strateg_first button.owl-prev:focus {
+    background-image: url(../images/rightgradArrow.png) !important;
+    transform: rotate(180deg);
+  }
+  .tading_strateg_first button.owl-next {
+    background-image: url(../images/lefttrans_arrow.png) !important;
+    transform: rotate(180deg);
+    background-size: 50px 50px !important;
+    width: 50px;
+    height: 50px;
+    background-color: transparent !important;
+    margin-left: 15px;
+    color: transparent !important;
+  }
+  .tading_strateg_first button.owl-next:focus {
+    background-image: url(../images/rightgradArrow.png) !important;
+    transform: rotate(0deg);
+  }
+  .tra_point_remove {
+    display: none !important;
+  }
+}
+@media (max-width: 1200px) {
+  .counter_flex {
+    height: 65px;
+  }
+  .count_separate_ .counter_flex h1 {
+    font-size: 45px !important;
+  }
+  .box_banner .wp-block-columns {
+    padding-bottom: 40px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+@media (max-width: 781px) {
+  .trading_fusce .paragraph_free.common_para {
+    margin: 0px !important;
+  }
+  .additonal_trading {
+    margin-top: 0px !important;
+  }
+  .mobilecompareSection {
+    display: block !important;
+    padding-top: 30px;
+  }
+  .without_stack {
+    display: none !important;
+  }
+  .mobilecompareCol:first-child {
+    margin-bottom: 25px;
+  }
+  .count_separate_ .counter_flex {
+    height: 53px;
+    align-items: baseline;
+  }
+  .pellentesque .the_pricing {
+    padding-left: 20px;
+  }
+  .count_section .pellentesque h1 {
+    font-size: 48px !important;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
+@media (max-width: 767px) {
+  .entry-content .trading_fusce {
+    margin-top: 80px;
+  }
+  .steps_success {
+    row-gap: 15px;
+  }
+  .count_separate_ .counter_flex h1 {
+    font-size: 24px !important;
+  }
+  .tading_strateg_first {
+    margin-bottom: 100px !important;
+  }
+  .count_section .pricing_menu {
+    margin-bottom: 40px;
+  }
+  .gutentor-accordion-wrapper .gutentor-single-item-title {
+    font-size: 22px !important;
+  }
+  #footer-widgets {
+    display: none;
+  }
+}
+@media (max-width: 450px) {
+  .wp-block-buttons .commGradBtn {
+    width: 100%;
+  }
+  .width_60 {
+    width: 100%;
+  }
+  .count_section.count_separate_ {
+    grid-gap: 15px;
+  }
+  .count_separate_ .counter_flex h1 {
+    font-size: 22px !important;
+  }
+}
+/*# sourceMappingURL=services.css.map */

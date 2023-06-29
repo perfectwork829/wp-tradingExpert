@@ -1,0 +1,93 @@
+/*
+Theme Name: GeneratePress Child
+Author: 
+Description: Your description goes here
+Version: 1.0
+Template: generatepress
+
+This is the child theme for GeneratePress theme, generated with Generate Child Theme plugin by catchthemes.
+
+(optional values you can add: Theme URI, Author URI, License, License URI, Tags, Text Domain)
+*/
+
+:root {
+	--fs_80:80px;
+	--fs_72:72px;
+	--fs_70:70px;
+   --fs_62:62px;
+	 --fs_52:52px;
+	--fs_50:50px;
+	--fs_40:40px;
+	--fs_32:32px;
+	--fs_30:30px;
+	 --fs_24:24px;
+	--fs_23:23px;
+  --fs_20:20px;
+  --fs_16:16px;	
+}
+@media(max-width:1200px){
+	:root {
+	--fs_80:65px;
+	--fs_72:60px;
+	--fs_70:60px;
+   --fs_62:55px;
+	--fs_52:45px;
+	--fs_50:42px;
+	--fs_40:35px;
+	--fs_32:28px;
+	--fs_30:25px;
+	 --fs_24:22px;
+	--fs_23:23px;
+  --fs_20:20px;
+  --fs_16:16px;	
+}
+}
+@media(max-width:1024px){
+	:root {
+	--fs_80:50px;
+	--fs_72:38px;
+	--fs_70:36px;
+   --fs_62:35px;
+	--fs_52:32px;
+	--fs_50:30px;
+	--fs_40:25px;
+	--fs_32:23px;
+	--fs_30:20px;
+	 --fs_24:20px;
+	--fs_23:20px;
+  --fs_20:16px;
+  --fs_16:16px;
+	}
+}
+@media(max-width:767px){
+	:root {
+	--fs_80:40px;
+	--fs_72:32px;
+	--fs_70:30px;
+   --fs_62:30px;
+	--fs_52:25px;
+	--fs_50:25px;
+	--fs_40:20px;
+	--fs_32:20px;
+	--fs_30:18px;
+	 --fs_24:20px;
+	--fs_23:20px;
+  --fs_20:16px;
+  --fs_16:16px;	
+}
+}
+
+@font-face {
+  font-family: ProximaNova;
+/*   src: url(ProximaNovaFont.otf); */
+	src: url(fonts/ProximaNova-Regular.ttf);
+}
+/* @font-face {
+  font-family: 'Klavika';
+  src: url(../fonts/Klavika-Regular.otf), weight:normal;
+  src: url(../fonts/Klavika-Bold.otf), weight:bold;
+} */
+body{
+	font-family: ProximaNova;
+	overflow-x: hidden;
+}

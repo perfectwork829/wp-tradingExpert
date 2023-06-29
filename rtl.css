@@ -1,0 +1,9 @@
+/*
+Theme Name:     GeneratePress Child
+Template:       generatepress
+
+This is the child theme for GeneratePress theme, generated with Generate Child Theme plugin by catchthemes.
+
+Right to Left text support.
+*/
+@import url("../twentyseventeen/rtl.css");
